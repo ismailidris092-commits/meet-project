@@ -20,9 +20,9 @@ header {
 }
 
 .button-one {
-  background-color: cornflowerblue;
+  background-color: cadetblue;
   border: none;
-  padding: 15px;
+  padding: 17px;
   margin: 10px;
   border-radius: 25px;
   color: white;
@@ -31,14 +31,14 @@ header {
 .button-two {
   background-color: darkorchid;
   border: none;
-  padding: 15px;
+  padding: 17px;
   margin: 10px;
   border-radius: 25px;
   color: white;
 }
 
 .zero-one {
-  margin: 60px 0;
+  margin: 70px 0;
   text-align: center;
 }
 
@@ -72,7 +72,7 @@ h2 {
 }
 
 .zero-two {
-  margin: 60px 0;
+  margin: 70px 0;
   text-align: center;
 }
 
@@ -95,8 +95,8 @@ footer {
 
 .footer-button {
   border: none;
-  border-radius: 20px;
+  border-radius: 23px;
   color: white;
-  background-color: lightblue;
-  padding: 15px;
+  background-color: cadetblue;
+  padding: 18px;
 }
