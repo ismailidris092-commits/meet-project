@@ -81,9 +81,10 @@ h2 {
 }
 
 footer {
-  background-image: url(Images/image-footer-background.jpg);
+  background: linear-gradient(rgb(74, 150, 166, 0.6), rgb(74, 150, 166, 0.6)),
+    url(Images/image-footer-background.jpg);
   background-position: center;
-  background-size: cove;
+  background-size: cover;
   width: 100%;
   height: 180px;
   text-align: center;
