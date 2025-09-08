@@ -12,11 +12,17 @@ nav {
 
 header {
   margin: 30px;
-  /* display: flex;
-  justify-content: space-around; */
   text-align: center;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+}
+
+header h1 {
+  padding: 0 25%;
+}
+
+header .meet-text {
+  padding: 0 5%;
 }
 
 .button-one {
@@ -104,6 +110,10 @@ header {
   margin-top: 30px;
 }
 
+.modern-use-paragraph {
+  padding: 0 35%;
+}
+
 .pendulum-two {
   text-align: center;
   margin: 50px 0;
@@ -120,10 +130,6 @@ header {
   border-right: 1px solid black;
   width: 50%;
   height: 60px;
-}
-
-.main-page {
-  text-align: center;
 }
 
 footer {
@@ -183,7 +189,7 @@ footer {
   header h1 {
     font-size: 30px;
     margin-top: 40px;
-    line-height: 35px;
+    padding: 0 0;
   }
 
   .header-Right-image {
@@ -197,7 +203,7 @@ footer {
   }
 
   .modern-use-paragraph {
-    font-size: 15px;
+    font-size: 16px;
     padding: 0 5px;
   }
 
@@ -217,5 +223,17 @@ footer {
   header img {
     width: 80%;
     margin-top: 20px;
+  }
+
+  header h1 {
+    padding: 0 5%;
+  }
+
+  header .meet-text {
+    padding: 0 1%;
+  }
+
+  .modern-use-paragraph {
+    padding: 0 25%;
   }
 }
